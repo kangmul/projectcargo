@@ -1,27 +1,37 @@
-.carousel-caption{
-    background-color: rgba(95, 158, 160,  0.68);
-    margin-bottom: 160px;
-    color: gold;
+.carousel-caption {
+  background-color: rgba(95, 158, 160, 0.68);
+  margin-bottom: 160px;
+  color: gold;
 }
 
 .judul1 {
-    background-color: gold;
+  background-color: gold;
 }
 
-.imggalery{
-    margin-top: 20px;
-    padding-top: 20px;
+.imggalery {
+  margin-top: 20px;
+  padding-top: 20px;
 }
 
-footer{
-    background-color: #333333;
-    color: #ffffff;
-    padding: 60px;
-
+footer {
+  background-color: #333333;
+  color: #ffffff;
+  padding: 60px;
 }
 
-.bg-menu-footer.list-group-item{
-    background-color: #333333;
-    border: none;
+.bg-menu-footer.list-group-item {
+  background-color: #333333;
+  border: none;
+}
 
+section#pick .card {
+  border: 0px;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+section#pick .card .card-body h5.card-title {
+  text-transform: uppercase;
+  margin-top: 50px;
+  font-weight: 900;
 }
